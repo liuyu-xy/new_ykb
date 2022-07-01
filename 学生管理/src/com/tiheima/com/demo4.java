@@ -1,7 +1,5 @@
 package com.tiheima.com;
-
 import com.tiheima.mymain.Student;
-
 public class demo4 {
     public static void main(String[] args) {
         StringBuilder sb=new StringBuilder();
