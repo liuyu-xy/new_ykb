@@ -20,6 +20,8 @@ public class demo2 {
         System.out.print("请输入生日 ");
         sd.setSr(sc.next());
         sd.show();
+        System.out.println("添加成功!!");
+
 
     }
 }
