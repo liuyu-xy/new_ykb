@@ -43,11 +43,6 @@ public class update {
                                 System.out.println("请输入新的学号");
                                 String newxh = sc.next();
                                 Student ST=arry.get(i2);
-
-                                if (newxh.equals(ST.getXh())){
-                                    System.out.println("学号重复！！");
-                                    break;
-                                }
                                 st.setXh(newxh);
                                 System.out.println("修改成功！！");
                                 break;

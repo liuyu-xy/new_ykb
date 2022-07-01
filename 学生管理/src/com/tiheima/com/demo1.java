@@ -10,7 +10,7 @@ public class demo1 {
         allstudent.setName("李四");
         allstudent.setAge("20");
         allstudent.setXb("男");
-        allstudent.setDz("青岛");
+        allstudent.setDz("山东青岛");
         allstudent.setSr("1999.8.19");
         arry.add(allstudent);
         Student allstudent2 =new Student();
@@ -71,7 +71,7 @@ public class demo1 {
                /* System.out.println("查看所有学生");
                 break;*/
                     demo4.allstudent(arry);
-                    break;
+                 break;
 
 
                 } else if (a == 5) {
