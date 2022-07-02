@@ -76,7 +76,7 @@ public class demo1 {
 
                 } else if (a == 5) {
                     System.out.println("程序结束!");
-                    break;
+                    continue;
                 }
             }
         }
